@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Version from main
+=======
+Version from branch A
+>>>>>>> conflict-a
